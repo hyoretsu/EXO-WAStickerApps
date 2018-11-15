@@ -1,6 +1,4 @@
 {
-  "android_play_store_link": "",
-  "ios_app_store_link": "",
   "sticker_packs": [
     {
       "identifier": "1",
@@ -8,40 +6,30 @@
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_Baekhyun.png",
       "publisher_website": "http://exo.smtown.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Baekhyun_01.webp",
-          "emojis": [""]
+          "image_file": "Baekhyun_01.webp"
         },
         {
-          "image_file": "Baekhyun_02.webp",
-          "emojis": [""]
+          "image_file": "Baekhyun_02.webp"
         },
         {
-          "image_file": "Baekhyun_03.webp",
-          "emojis": [""]
+          "image_file": "Baekhyun_03.webp"
         },
         {
-          "image_file": "Baekhyun_04.webp",
-          "emojis": [""]
+          "image_file": "Baekhyun_04.webp"
         },
         {
-          "image_file": "Baekhyun_05.webp",
-          "emojis": [""]
+          "image_file": "Baekhyun_05.webp"
         },
         {
-          "image_file": "Baekhyun_06.webp",
-          "emojis": [""]
+          "image_file": "Baekhyun_06.webp"
         },
         {
-          "image_file": "Baekhyun_07.webp",
-          "emojis": [""]
+          "image_file": "Baekhyun_07.webp"
         },
         {
-          "image_file": "Baekhyun_08.webp",
-          "emojis": [""]
+          "image_file": "Baekhyun_08.webp"
         }
       ]
     },
@@ -51,40 +39,30 @@
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_Chanyeol.png",
       "publisher_website": "http://exo.smtown.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Chanyeol_01.webp",
-          "emojis": [""]
+          "image_file": "Chanyeol_01.webp"
         },
         {
-          "image_file": "Chanyeol_02.webp",
-          "emojis": [""]
+          "image_file": "Chanyeol_02.webp"
         },
         {
-          "image_file": "Chanyeol_03.webp",
-          "emojis": [""]
+          "image_file": "Chanyeol_03.webp"
         },
         {
-          "image_file": "Chanyeol_04.webp",
-          "emojis": [""]
+          "image_file": "Chanyeol_04.webp"
         },
         {
-          "image_file": "Chanyeol_05.webp",
-          "emojis": [""]
+          "image_file": "Chanyeol_05.webp"
         },
         {
-          "image_file": "Chanyeol_06.webp",
-          "emojis": [""]
+          "image_file": "Chanyeol_06.webp"
         },
         {
-          "image_file": "Chanyeol_07.webp",
-          "emojis": [""]
+          "image_file": "Chanyeol_07.webp"
         },
         {
-          "image_file": "Chanyeol_08.webp",
-          "emojis": [""]
+          "image_file": "Chanyeol_08.webp"
         }
       ]
     },
@@ -94,40 +72,30 @@
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_Chen.png",
       "publisher_website": "http://exo.smtown.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Chen_01.webp",
-          "emojis": [""]
+          "image_file": "Chen_01.webp"
         },
         {
-          "image_file": "Chen_02.webp",
-          "emojis": [""]
+          "image_file": "Chen_02.webp"
         },
         {
-          "image_file": "Chen_03.webp",
-          "emojis": [""]
+          "image_file": "Chen_03.webp"
         },
         {
-          "image_file": "Chen_04.webp",
-          "emojis": [""]
+          "image_file": "Chen_04.webp"
         },
         {
-          "image_file": "Chen_05.webp",
-          "emojis": [""]
+          "image_file": "Chen_05.webp"
         },
         {
-          "image_file": "Chen_06.webp",
-          "emojis": [""]
+          "image_file": "Chen_06.webp"
         },
         {
-          "image_file": "Chen_07.webp",
-          "emojis": [""]
+          "image_file": "Chen_07.webp"
         },
         {
-          "image_file": "Chen_08.webp",
-          "emojis": [""]
+          "image_file": "Chen_08.webp"
         }
       ]
     },
@@ -137,40 +105,30 @@
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_DO.png",
       "publisher_website": "http://exo.smtown.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "DO_01.webp",
-          "emojis": [""]
+          "image_file": "DO_01.webp"
         },
         {
-          "image_file": "DO_02.webp",
-          "emojis": [""]
+          "image_file": "DO_02.webp"
         },
         {
-          "image_file": "DO_03.webp",
-          "emojis": [""]
+          "image_file": "DO_03.webp"
         },
         {
-          "image_file": "DO_04.webp",
-          "emojis": [""]
+          "image_file": "DO_04.webp"
         },
         {
-          "image_file": "DO_05.webp",
-          "emojis": [""]
+          "image_file": "DO_05.webp"
         },
         {
-          "image_file": "DO_06.webp",
-          "emojis": [""]
+          "image_file": "DO_06.webp"
         },
         {
-          "image_file": "DO_07.webp",
-          "emojis": [""]
+          "image_file": "DO_07.webp"
         },
         {
-          "image_file": "DO_08.webp",
-          "emojis": [""]
+          "image_file": "DO_08.webp"
         }
       ]
     },
@@ -180,40 +138,30 @@
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_Kai.png",
       "publisher_website": "http://exo.smtown.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Kai_01.webp",
-          "emojis": [""]
+          "image_file": "Kai_01.webp"
         },
         {
-          "image_file": "Kai_02.webp",
-          "emojis": [""]
+          "image_file": "Kai_02.webp"
         },
         {
-          "image_file": "Kai_03.webp",
-          "emojis": [""]
+          "image_file": "Kai_03.webp"
         },
         {
-          "image_file": "Kai_04.webp",
-          "emojis": [""]
+          "image_file": "Kai_04.webp"
         },
         {
-          "image_file": "Kai_05.webp",
-          "emojis": [""]
+          "image_file": "Kai_05.webp"
         },
         {
-          "image_file": "Kai_06.webp",
-          "emojis": [""]
+          "image_file": "Kai_06.webp"
         },
         {
-          "image_file": "Kai_07.webp",
-          "emojis": [""]
+          "image_file": "Kai_07.webp"
         },
         {
-          "image_file": "Kai_08.webp",
-          "emojis": [""]
+          "image_file": "Kai_08.webp"
         }
       ]
     },
@@ -223,40 +171,30 @@
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_Lay.png",
       "publisher_website": "http://exo.smtown.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Lay_01.webp",
-          "emojis": [""]
+          "image_file": "Lay_01.webp"
         },
         {
-          "image_file": "Lay_02.webp",
-          "emojis": [""]
+          "image_file": "Lay_02.webp"
         },
         {
-          "image_file": "Lay_03.webp",
-          "emojis": [""]
+          "image_file": "Lay_03.webp"
         },
         {
-          "image_file": "Lay_04.webp",
-          "emojis": [""]
+          "image_file": "Lay_04.webp"
         },
         {
-          "image_file": "Lay_05.webp",
-          "emojis": [""]
+          "image_file": "Lay_05.webp"
         },
         {
-          "image_file": "Lay_06.webp",
-          "emojis": [""]
+          "image_file": "Lay_06.webp"
         },
         {
-          "image_file": "Lay_07.webp",
-          "emojis": [""]
+          "image_file": "Lay_07.webp"
         },
         {
-          "image_file": "Lay_08.webp",
-          "emojis": [""]
+          "image_file": "Lay_08.webp"
         }
       ]
     },
@@ -265,41 +203,30 @@
       "name": "Luhan",
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_Luhan.png",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Luhan_01.webp",
-          "emojis": [""]
+          "image_file": "Luhan_01.webp"
         },
         {
-          "image_file": "Luhan_02.webp",
-          "emojis": [""]
+          "image_file": "Luhan_02.webp"
         },
         {
-          "image_file": "Luhan_03.webp",
-          "emojis": [""]
+          "image_file": "Luhan_03.webp"
         },
         {
-          "image_file": "Luhan_04.webp",
-          "emojis": [""]
+          "image_file": "Luhan_04.webp"
         },
         {
-          "image_file": "Luhan_05.webp",
-          "emojis": [""]
+          "image_file": "Luhan_05.webp"
         },
         {
-          "image_file": "Luhan_06.webp",
-          "emojis": [""]
+          "image_file": "Luhan_06.webp"
         },
         {
-          "image_file": "Luhan_07.webp",
-          "emojis": [""]
+          "image_file": "Luhan_07.webp"
         },
         {
-          "image_file": "Luhan_08.webp",
-          "emojis": [""]
+          "image_file": "Luhan_08.webp"
         }
       ]
     },
@@ -309,40 +236,30 @@
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_Sehun.png",
       "publisher_website": "http://exo.smtown.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Sehun_01.webp",
-          "emojis": [""]
+          "image_file": "Sehun_01.webp"
         },
         {
-          "image_file": "Sehun_02.webp",
-          "emojis": [""]
+          "image_file": "Sehun_02.webp"
         },
         {
-          "image_file": "Sehun_03.webp",
-          "emojis": [""]
+          "image_file": "Sehun_03.webp"
         },
         {
-          "image_file": "Sehun_04.webp",
-          "emojis": [""]
+          "image_file": "Sehun_04.webp"
         },
         {
-          "image_file": "Sehun_05.webp",
-          "emojis": [""]
+          "image_file": "Sehun_05.webp"
         },
         {
-          "image_file": "Sehun_06.webp",
-          "emojis": [""]
+          "image_file": "Sehun_06.webp"
         },
         {
-          "image_file": "Sehun_07.webp",
-          "emojis": [""]
+          "image_file": "Sehun_07.webp"
         },
         {
-          "image_file": "Sehun_08.webp",
-          "emojis": [""]
+          "image_file": "Sehun_08.webp"
         }
       ]
     },
@@ -352,40 +269,30 @@
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_Suho.png",
       "publisher_website": "http://exo.smtown.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Suho_01.webp",
-          "emojis": [""]
+          "image_file": "Suho_01.webp"
         },
         {
-          "image_file": "Suho_02.webp",
-          "emojis": [""]
+          "image_file": "Suho_02.webp"
         },
         {
-          "image_file": "Suho_03.webp",
-          "emojis": [""]
+          "image_file": "Suho_03.webp"
         },
         {
-          "image_file": "Suho_04.webp",
-          "emojis": [""]
+          "image_file": "Suho_04.webp"
         },
         {
-          "image_file": "Suho_05.webp",
-          "emojis": [""]
+          "image_file": "Suho_05.webp"
         },
         {
-          "image_file": "Suho_06.webp",
-          "emojis": [""]
+          "image_file": "Suho_06.webp"
         },
         {
-          "image_file": "Suho_07.webp",
-          "emojis": [""]
+          "image_file": "Suho_07.webp"
         },
         {
-          "image_file": "Suho_08.webp",
-          "emojis": [""]
+          "image_file": "Suho_08.webp"
         }
       ]
     },
@@ -394,41 +301,30 @@
       "name": "Tao",
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_Tao.png",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Tao_01.webp",
-          "emojis": [""]
+          "image_file": "Tao_01.webp"
         },
         {
-          "image_file": "Tao_02.webp",
-          "emojis": [""]
+          "image_file": "Tao_02.webp"
         },
         {
-          "image_file": "Tao_03.webp",
-          "emojis": [""]
+          "image_file": "Tao_03.webp"
         },
         {
-          "image_file": "Tao_04.webp",
-          "emojis": [""]
+          "image_file": "Tao_04.webp"
         },
         {
-          "image_file": "Tao_05.webp",
-          "emojis": [""]
+          "image_file": "Tao_05.webp"
         },
         {
-          "image_file": "Tao_06.webp",
-          "emojis": [""]
+          "image_file": "Tao_06.webp"
         },
         {
-          "image_file": "Tao_07.webp",
-          "emojis": [""]
+          "image_file": "Tao_07.webp"
         },
         {
-          "image_file": "Tao_08.webp",
-          "emojis": [""]
+          "image_file": "Tao_08.webp"
         }
       ]
     },
@@ -438,40 +334,30 @@
       "publisher": "Hyoretsu",
       "tray_image_file": "tray_Xiumin.png",
       "publisher_website": "http://exo.smtown.com",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Xiumin_01.webp",
-          "emojis": [""]
+          "image_file": "Xiumin_01.webp"
         },
         {
-          "image_file": "Xiumin_02.webp",
-          "emojis": [""]
+          "image_file": "Xiumin_02.webp"
         },
         {
-          "image_file": "Xiumin_03.webp",
-          "emojis": [""]
+          "image_file": "Xiumin_03.webp"
         },
         {
-          "image_file": "zXiumin_04.webp",
-          "emojis": [""]
+          "image_file": "zXiumin_04.webp"
         },
         {
-          "image_file": "Xiumin_05.webp",
-          "emojis": [""]
+          "image_file": "Xiumin_05.webp"
         },
         {
-          "image_file": "Xiumin_06.webp",
-          "emojis": [""]
+          "image_file": "Xiumin_06.webp"
         },
         {
-          "image_file": "Xiumin_07.webp",
-          "emojis": [""]
+          "image_file": "Xiumin_07.webp"
         },
         {
-          "image_file": "Xiumin_08.webp",
-          "emojis": [""]
+          "image_file": "Xiumin_08.webp"
         }
       ]
     }
